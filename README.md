@@ -2,6 +2,7 @@
 
 ![standard](https://github.com/SwezyDev/Swezy/assets/109398018/df5928aa-eae9-4222-b5dd-a0b057a5aa22)
 
+- My name is Swezy
 - Im a Python Developer 
 
 <p align="center">
