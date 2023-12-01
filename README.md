@@ -10,6 +10,7 @@
 - I started coding around the beginning of the year - 2023 (Active since April) 
 - Languages : 
 > Primary = Python
+
 > Secondary  = Batch (I know its not a good Language)
 
 <p align="center">
