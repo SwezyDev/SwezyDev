@@ -1,5 +1,5 @@
 # Swezy
-
+<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
 ![standard](https://github.com/SwezyDev/Swezy/assets/109398018/df5928aa-eae9-4222-b5dd-a0b057a5aa22)
 
 - My name is **Swezy**
