@@ -12,7 +12,7 @@
 > Primary = **Python**
 
 > Secondary  = **Batch** (I know its not a good Language)
-- Im a **Hobby Developer** (Im **NOT** working as a Developer / Doing it for Money), I just have Fun on it 
+- Im a **Hobby Developer** (Im **NOT** working as a Developer / Doing it for Money), I just have Fun on it
 
 # Thanks for reading <3
 
