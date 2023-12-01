@@ -14,6 +14,8 @@
 > Secondary  = **Batch** (I know its not a good Language)
 - Im a **Hobby Developer** (Im **NOT** working as a Developer / Doing it for Money), I just have Fun on it 
 
+# Thanks for reading <3
+
 <p align="center">
     <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 </p>
