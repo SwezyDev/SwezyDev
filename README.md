@@ -7,7 +7,8 @@
 - Im **German**
 - Im a **Python** Developer 
 - I also have a [Discord Server](https://discord.gg/KkxjCe8Fg2) where you can find all my work
-  
+- I started coding around the beginning of the year - 2023 (Active since April) 
+
 <p align="center">
     <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 </p>
