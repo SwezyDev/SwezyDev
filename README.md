@@ -11,7 +11,9 @@
 - Languages : 
 > Primary = **Python**
 
-> Secondary  = **Batch** (I know its not a good Language)
+> Secondary = **Batch** (I know its not a good Language)
+
+> Learning = **C++**  
 - Im a **Hobby Developer** (Im **NOT** working as a Developer / Doing it for Money), I just have Fun on it
 
 <p align="center">
