@@ -7,7 +7,7 @@
 - Im **German**
 - Im a **Python** Developer 
 - I also have a [Discord Server](https://discord.gg/KkxjCe8Fg2) where you can find all my work
-- I started coding around the beginning of the year - 2023 (Active since April)
+- I started coding around the beginning of the year - 2023 (Active since 2024 April)
 - Languages : 
 > Primary = **Python**
 
