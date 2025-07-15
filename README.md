@@ -1,4 +1,4 @@
-[About](#about-me) • [Stats](#github-stats) • [Contact](#wanna-chat)
+[Me](#me) • [About](#about-me) • [Stats](#github-stats) • [Contact](#wanna-chat)
 
 <h1 align="center">💻 Hey, I'm Swezy 💻</h1>
 <h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
@@ -12,6 +12,20 @@
   <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto:contact@swezy.dev"><img src="https://img.shields.io/badge/Email-contact@swezy.dev-informational?style=for-the-badge&logo=gmail" /></a>
 </p>
+
+---
+
+<a name="me"></a>
+
+## 👤 Me
+
+- **Known as:** Swezy <3
+- **Age:** 🎩
+- **Location:** Germany  
+- **Languages:** German, English
+- **Programming in:** Mainly Python
+- **How everything started:** I've been passionate about technology since I was a very young child, and I began coding at the age of 13-14.
+- **Fun Fact:** I want to speak Russian so bad lol
 
 ---
 
