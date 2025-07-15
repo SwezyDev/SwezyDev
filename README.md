@@ -21,13 +21,13 @@
 
 ## 👤 Me
 
-- **Known as:** Swezy <3
-- **Age:** 🎩
-- **Location:** Germany  
-- **Languages:** German, English
-- **Programming in:** Mainly Python
-- **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
-- **Fun Fact:** I want to speak Russian so bad lol
+- 🔎 **Known as:** Swezy <3
+- 👤 **Age:** 🎩
+- 🗺️ **Location:** Germany  
+- 🗣️ **Languages:** German, English
+- 💻 **Programming in:** Mainly Python
+- ⭐ **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
+- 😂 **Fun Fact:** I want to speak Russian so bad lol
 
 ---
 
@@ -46,16 +46,16 @@
 
 ## 🧠 Knowledge Areas
 
-* Reverse Engineering & Malware Analysis
-* API Design & RESTful Service Integration
-* Session & Process Management
-* Automation with Schedulers, Webhooks & Bots
-* Discord/Telegram Bot Frameworks
-* License & Key-Based Authentication Systems
-* Network Monitoring & Proxy Interception
-* Fullstack Development (Frontend ↔ Backend)
-* CLI & GUI Tool Development
-* Working with Windows (10 & 11), Linux (Mainly Ubuntu, Kali & REMnux) and Android
+* 🧬 Reverse Engineering & Malware Analysis
+* 📶 API Design & RESTful Service Integration
+* ⚙️ Session & Process Management
+* 💤 Automation with Schedulers, Webhooks & Bots
+* 🤖 Discord/Telegram Bot Frameworks
+* 🗝️ License & Key-Based Authentication Systems
+* 🛜 Network Monitoring & Proxy Interception
+* 🧠 Fullstack Development (Frontend ↔ Backend)
+* 💻 CLI & GUI Tool Development
+* 🐧 Working with Windows (10 & 11), Linux (Mainly Ubuntu, Kali & REMnux) and Android
 
 ---
 
