@@ -120,6 +120,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swezydev&theme=tokyonight" />
 </p>
 
+###### I'm not so Activate on GitHub
+
 ---
 
 <a name="current-focus"></a>
