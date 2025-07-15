@@ -118,6 +118,9 @@
   <img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" />
   <img src="https://img.shields.io/badge/Dnspy-555555?style=for-the-badge&logo=unsplash&logoColor=white" />
   <br />
+  <img src="https://img.shields.io/badge/Detect it Easy-FF6D2D?style=for-the-badge&logo=deepgram&logoColor=white" />
+  <img src="https://img.shields.io/badge/CFF Explorer-ff0000?style=for-the-badge&logo=exercism&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/VirusTotal-7594de?style=for-the-badge&logo=virustotal&logoColor=white" />
   <img src="https://img.shields.io/badge/AnyRun-003f74?style=for-the-badge&logo=task&logoColor=white" />
   <img src="https://img.shields.io/badge/Triage-ff0000?style=for-the-badge&logo=truenas&logoColor=white" />
