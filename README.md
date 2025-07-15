@@ -39,6 +39,7 @@
 * Network Monitoring & Proxy Interception
 * Fullstack Development (Frontend ↔ Backend)
 * CLI & GUI Tool Development
+* Working with Windows (10 & 11), Linux (Mainly Ubuntu, Kali) and Android
 
 ---
 
