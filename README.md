@@ -71,7 +71,7 @@
 - ✅ Build automation Tools and Bots
 - ✅ Understand API design and integration
 - ✅ Dive into Fullstack Development
-- ✅ Explore Cybersecurity fundamentals
+- ✅ Advance skills in Cybersecurity 
 - ✅ Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
 - ⬜ Advance skills in C++
 - ⬜ Get into Web-Development
