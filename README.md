@@ -81,8 +81,6 @@
   <br />
   <img src="https://img.shields.io/badge/HTTP--Dbg-ff0000?style=for-the-badge&logo=zend&logoColor=white" />
   <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/mullvad-dc942e?style=for-the-badge&logo=mullvad&logoColor=white" />
 </p>
 
 ---
