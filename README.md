@@ -1,4 +1,4 @@
-[Me](#me) • [About](#about-me) • [Stats](#github-stats) • [Contact](#wanna-chat)
+[Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#wanna-chat)
 
 <h1 align="center">💻 Hey, I'm Swezy 💻</h1>
 <h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
@@ -56,6 +56,25 @@
 * 🧠 Fullstack Development (Frontend ↔ Backend)
 * 💻 CLI & GUI Tool Development
 * 🐧 Working with Windows (10 & 11), Linux (Mainly Ubuntu, Kali & REMnux) and Android
+
+---
+
+<a name="milestones"></a>
+
+## 🎯 Milestones
+
+
+- ✅ Get into Development
+- ✅ Learn Python deeply
+- ✅ Get into Malware Analysis
+- ✅ Master Linux (Ubuntu, Kali, REMnux), Windows (10 & 11) and Android environments
+- ✅ Build automation Tools and Bots
+- ✅ Understand API design and integration
+- ✅ Dive into Fullstack Development
+- ✅ Explore Cybersecurity fundamentals
+- ✅ Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
+- ⬜ Advance skills in C++
+- ⬜ Get into Web-Development
 
 ---
 
