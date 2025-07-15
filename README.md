@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Termius-1c1f4d?style=for-the-badge&logo=termius&logoColor=white" />
   <img src="https://img.shields.io/badge/PuTTY-555554?style=for-the-badge&logo=rss&logoColor=white" />
   <img src="https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileZilla-ff0000?style=for-the-badge&logo=filezilla&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
