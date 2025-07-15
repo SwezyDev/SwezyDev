@@ -24,7 +24,7 @@
 - **Location:** Germany  
 - **Languages:** German, English
 - **Programming in:** Mainly Python
-- **How everything started:** I've been passionate about technology since I was a very young child, and I began coding at the age of 13-14.
+- **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
 - **Fun Fact:** I want to speak Russian so bad lol
 
 ---
@@ -70,8 +70,15 @@
   <br />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-242424?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-003B57?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Termius-1c1f4d?style=for-the-badge&logo=termius&logoColor=white" />
   <img src="https://img.shields.io/badge/PuTTY-555554?style=for-the-badge&logo=rss&logoColor=white" />
