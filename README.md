@@ -71,7 +71,7 @@
 - ✅ Build automation Tools and Bots
 - ✅ Understand API design and integration
 - ✅ Dive into Fullstack Development
-- ✅ Advance skills in Cybersecurity 
+- ✅ Advance skills in Cybersecurity
 - ✅ Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
 - ⬜ Advance skills in C++
 - ⬜ Get into Web-Development
@@ -124,6 +124,10 @@
   <br />
   <img src="https://img.shields.io/badge/HTTP--Dbg-ff0000?style=for-the-badge&logo=zend&logoColor=white" />
   <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Raspberry Pi-05af5e?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flipper Zero-FF6D2D?style=for-the-badge&logo=dolphin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jet KVM-224edf?style=for-the-badge&logo=leptos&logoColor=white" />
 </p>
 
 ---
