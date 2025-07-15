@@ -1,27 +1,125 @@
-# Swezy
-<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
+[About](#about-me) • [Stats](#github-stats) • [Contact](#wanna-chat)
 
-![standard](https://github.com/SwezyDev/Swezy/assets/109398018/df5928aa-eae9-4222-b5dd-a0b057a5aa22)
-
-- My name is **Swezy**
-- Im **German**
-- Im a **Python** Developer 
-- I also have a [Discord Server](https://discord.gg/KkxjCe8Fg2) where you can find all my work
-- I started coding around the beginning of the year - 2023 (Active since 2024 April)
-- Languages : 
-> Primary = **Python**
-
-> Secondary = **Batch** (I know its not a good Language)
-
-> Learning = **C++**  
-- Im a **Hobby Developer** (Im **NOT** working as a Developer / Doing it for Money), I just have Fun on it
+<h1 align="center">💻 Hey, I'm Swezy 💻</h1>
+<h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
 
 <p align="center">
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=swezydev&label=Profile%20Views&color=blueviolet&style=flat" alt="swezydev" />
 </p>
 
-# Thanks for reading <3
+<p align="center">
+  <a href="https://discord.com/users/432260852486242314"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3%230000-blue?style=for-the-badge&logo=discord" /></a>
+  <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:contact@swezy.dev"><img src="https://img.shields.io/badge/Email-contact@swezy.dev-informational?style=for-the-badge&logo=gmail" /></a>
+</p>
 
----------------------------------------
+---
 
-- Swezy <3
+<a name="about-me"></a>
+
+## 💡 About Me
+
+* 🔧 I create Tools, Bots & Automations that *just work*
+* 🧠 Currently learning **C++**
+* 🧪 Interested in **Discord & Telegram Bots**, **APIs**, **Cybersecurity**, **Fullstack Development**, **Crypto**, **Game Cheats**, and **Malware Analytics**
+* 🐧 Comfortable working in both **Linux** and **Windows** environments
+
+---
+
+<a name="knowledge-areas"></a>
+
+## 🧠 Knowledge Areas
+
+* Reverse Engineering & Malware Analysis
+* API Design & RESTful Service Integration
+* Session & Process Management
+* Automation with Schedulers, Webhooks & Bots
+* Discord/Telegram Bot Frameworks
+* License & Key-Based Authentication Systems
+* Network Monitoring & Proxy Interception
+* Fullstack Development (Frontend ↔ Backend)
+* CLI & GUI Tool Development
+
+---
+
+<a name="languages-tools"></a>
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/visual-studio-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Termius-1c1f4d?style=for-the-badge&logo=termius&logoColor=white" />
+  <img src="https://img.shields.io/badge/PuTTY-555554?style=for-the-badge&logo=rss&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/Burp_Suite-00a2d7?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0db7ed?style=for-the-badge&logo=antennapod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/X64Dbg-555555?style=for-the-badge&logo=openbugbounty&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA Pro-f5ad7a?style=for-the-badge&logo=persistent&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dnspy-555555?style=for-the-badge&logo=unsplash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/VirusTotal-7594de?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/AnyRun-003f74?style=for-the-badge&logo=task&logoColor=white" />
+  <img src="https://img.shields.io/badge/Triage-ff0000?style=for-the-badge&logo=truenas&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/HTTP--Dbg-ff0000?style=for-the-badge&logo=zend&logoColor=white" />
+  <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white" />
+</p>
+
+---
+
+<a name="github-stats"></a>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swezydev&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swezydev&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swezydev&theme=tokyonight" />
+</p>
+
+---
+
+<a name="current-focus"></a>
+
+## 🚀 Current Focus
+
+* 💸 Building and refining **Payment Systems** with secure handling, validation mechanisms, and automation.
+* 🔑 Implementing **License Key Generation & Verification** workflows.
+* 🤖 Developing **Automation Tools** for efficient deployment, session management, and service control.
+* 📊 Integrating **Real-Time Monitoring** and reporting for transactions, system health, and license status.
+
+---
+
+<a name="wanna-chat"></a>
+
+## 🔗 Wanna Chat?
+
+<p align="center">
+  <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://discord.com/users/432260852486242314"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3%230000-blue?style=for-the-badge&logo=discord" /></a>
+</p>
+
+---
+
+> *“See the Network with other Perspectives.”*
+<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
