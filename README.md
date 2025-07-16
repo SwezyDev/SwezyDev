@@ -14,6 +14,9 @@
   <br />
   <a href="https://discord.com/users/432260852486242314"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <a href="https://discord.gg/KkxjCe8Fg2"><img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" /></a>
+  <br />
+  <p align="center">
+  <img src="https://lanyard.cnrad.dev/api/432260852486242314?borderRadius=5px&idleMessage=coding%20probs&bg=a&animated=true;" alt="RPC" />
 </p>
 
 ---
