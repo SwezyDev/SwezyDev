@@ -87,7 +87,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Batch-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/visual-studio-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" />
@@ -97,18 +97,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-242424?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-003B57?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Termius-1c1f4d?style=for-the-badge&logo=termius&logoColor=white" />
   <img src="https://img.shields.io/badge/PuTTY-555554?style=for-the-badge&logo=rss&logoColor=white" />
   <img src="https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
-  <img src="https://img.shields.io/badge/FileZilla-ff0000?style=for-the-badge&logo=filezilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
