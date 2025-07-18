@@ -115,6 +115,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br />
+  <img src="https://img.shields.io/badge/VMWare Workstation-607078?style=for-the-badge&logo=vmware&logoColor=black" />
+  <br />
   <img src="https://img.shields.io/badge/Burp_Suite-00a2d7?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-0db7ed?style=for-the-badge&logo=antennapod&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white" />
