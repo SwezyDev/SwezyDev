@@ -1,4 +1,7 @@
 <a name="top"></a>
+
+<code>Swezy@GitHub:~$ cat README.md</code>
+
 [Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#wanna-chat)
 
 <h1 align="center">💻 Hey, I'm Swezy 💻</h1>
