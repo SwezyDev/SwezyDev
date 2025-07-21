@@ -96,6 +96,8 @@
   <br />
   <img src="https://img.shields.io/badge/visual-studio-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual-Studio_Code-007ACC?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
