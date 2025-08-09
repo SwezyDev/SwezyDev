@@ -16,7 +16,7 @@
   <a href="https://x.com/Swezy_1337"><img src="https://img.shields.io/badge/Twitter-@Swezy_1337-blue?style=for-the-badge&logo=x" /></a>
   <a href="mailto:contact@swezy.dev"><img src="https://img.shields.io/badge/Email-contact@swezy.dev-informational?style=for-the-badge&logo=gmail" /></a>
   <br />
-  <a href="https://discord.com/users/432260852486242314"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
+  <a href="https://discord.com/users/1199106909047885879"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <a href="https://discord.gg/KkxjCe8Fg2"><img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" /></a>
   <br />
   <p align="center">
