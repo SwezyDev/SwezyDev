@@ -21,8 +21,8 @@
   <br />
   <p align="center">
   <img src="https://lanyard.cnrad.dev/api/1405599489531576411?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
-  <br />
-  <b><i>💀 Banned from Discord 💀</i></b>
+  <!--<br />-->
+  <!--<b><i>💀 Banned from Discord 💀</i></b>-->
   <!--432260852486242314-->
 </p>
 
