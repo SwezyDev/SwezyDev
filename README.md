@@ -66,8 +66,7 @@
 * 🛜 Network Monitoring & Proxy Interception
 * 🧠 Fullstack Development (Frontend ↔ Backend)
 * 💻 CLI & GUI Tool Development
-* 🐧 Working with Windows (10 & 11), Linux (Mainly Ubuntu, Kali & REMnux) and Android
-
+* 🐧 Working with Windows (10 & 11) and Linux (Mainly Ubuntu, Kali & REMnux)
 ---
 
 <a name="milestones"></a>
@@ -78,7 +77,7 @@
 - ✅ Get into Development
 - ✅ Learn Python deeply
 - ✅ Get into Malware Analysis
-- ✅ Master Linux (Ubuntu, Kali, REMnux), Windows (10 & 11) and Android environments
+- ✅ Master Linux (Ubuntu, Kali, REMnux) and Windows (10 & 11)
 - ✅ Build automation Tools and Bots
 - ✅ Understand API design and integration
 - ✅ Dive into Fullstack Development
