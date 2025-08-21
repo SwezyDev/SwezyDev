@@ -147,6 +147,7 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-05af5e?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flipper Zero-FF6D2D?style=for-the-badge&logo=dolphin&logoColor=white" />
   <img src="https://img.shields.io/badge/Jet KVM-224edf?style=for-the-badge&logo=leptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ledger-000001?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </p>
 
 ---
