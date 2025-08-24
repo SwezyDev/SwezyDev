@@ -48,7 +48,7 @@
 
 * 🔧 I create Tools, Bots & Automations that *just work*
 * 🧠 Currently learning **C++**
-* 🧪 Interested in **Discord & Telegram Bots**, **APIs**, **Cybersecurity**, **Fullstack Development**, **Crypto**, **Game Cheats**, and **Malware Analytics**
+* 🧪 Interested in **Discord & Telegram Bots**, **APIs**, **Cybersecurity**, **Fullstack Development**, **Homelabbing**, **Crypto**, **Game Cheats**, and **Malware Analytics**
 * 🐧 Comfortable working in both **Linux** and **Windows** environments
 
 ---
