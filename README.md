@@ -157,12 +157,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swezydev&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swezydev&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swezydev&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swezydev&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swezydev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swezydev&theme=dark" />
 </p>
 
 ###### I'm not so active on GitHub
