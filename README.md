@@ -73,14 +73,13 @@
 
 ## 🎯 Milestones
 
-
 - ✅ Get into Development
-- ✅ Learn Python deeply
-- ✅ Get into Malware Analysis
 - ✅ Master Linux (Ubuntu, Kali, REMnux) and Windows (10 & 11)
-- ✅ Build automation Tools and Bots
+- ✅ Learn Python deeply
 - ✅ Understand API design and integration
+- ✅ Build automation Tools and Bots
 - ✅ Dive into Fullstack Development
+- ✅ Get into Malware Analysis
 - ✅ Advance skills in Cybersecurity
 - ✅ Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
 - ⬜ Advance skills in C++
