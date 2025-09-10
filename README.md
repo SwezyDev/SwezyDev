@@ -93,61 +93,61 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batch-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/visual-studio-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual-Studio_Code-007ACC?style=for-the-badge&logo=dev.to&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nano-209CE9?style=for-the-badge&logo=nano&logoColor=white" />
+  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/visual-studio-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual-Studio_Code-007ACC?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white" /></a>
+  <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+  <a href="https://nano-editor.org/"><img src="https://img.shields.io/badge/Nano-209CE9?style=for-the-badge&logo=nano&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <a href="https://pm2.keymetrics.io/"><img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.phpmyadmin.net/"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/Termius-1c1f4d?style=for-the-badge&logo=termius&logoColor=white" />
-  <img src="https://img.shields.io/badge/PuTTY-555554?style=for-the-badge&logo=rss&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
+  <a href="https://termius.com/"><img src="https://img.shields.io/badge/Termius-1c1f4d?style=for-the-badge&logo=termius&logoColor=white" /></a>
+  <a href="https://www.putty.org/"><img src="https://img.shields.io/badge/PuTTY-555554?style=for-the-badge&logo=rss&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Remote_Desktop_Protocol"><img src="https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white" /></a>
+  <a href="https://filezilla-project.org/"><img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=codeblocks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=codeblocks&logoColor=white" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/VMWare Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://img.shields.io/badge/VMWare Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/Burp_Suite-00a2d7?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0db7ed?style=for-the-badge&logo=antennapod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-00a2d7?style=for-the-badge&logo=burpsuite&logoColor=white" /></a>
+  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-0db7ed?style=for-the-badge&logo=antennapod&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/X64Dbg-555555?style=for-the-badge&logo=openbugbounty&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA Pro-f5ad7a?style=for-the-badge&logo=persistent&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dnspy-555555?style=for-the-badge&logo=unsplash&logoColor=white" />
+  <a href="https://x64dbg.com/"><img src="https://img.shields.io/badge/X64Dbg-555555?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a>
+  <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA Pro-f5ad7a?style=for-the-badge&logo=persistent&logoColor=white" /></a>
+  <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logo=redragon&logoColor=white" /></a>
+  <a href="https://github.com/dnSpy/dnSpy"><img src="https://img.shields.io/badge/Dnspy-555555?style=for-the-badge&logo=unsplash&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/Detect it Easy-FF6D2D?style=for-the-badge&logo=deepgram&logoColor=white" />
-  <img src="https://img.shields.io/badge/CFF Explorer-ff0000?style=for-the-badge&logo=exercism&logoColor=white" />
+  <a href="https://github.com/horsicq/Detect-It-Easy"><img src="https://img.shields.io/badge/Detect it Easy-FF6D2D?style=for-the-badge&logo=deepgram&logoColor=white" /></a>
+  <a href="https://ntcore.com/?page_id=388"><img src="https://img.shields.io/badge/CFF Explorer-ff0000?style=for-the-badge&logo=exercism&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/VirusTotal-7594de?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/AnyRun-003f74?style=for-the-badge&logo=task&logoColor=white" />
-  <img src="https://img.shields.io/badge/Triage-ff0000?style=for-the-badge&logo=truenas&logoColor=white" />
+  <a href="https://www.virustotal.com/"><img src="https://img.shields.io/badge/VirusTotal-7594de?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
+  <a href="https://any.run/"><img src="https://img.shields.io/badge/AnyRun-003f74?style=for-the-badge&logo=task&logoColor=white" /></a>
+  <a href="https://tria.ge/"><img src="https://img.shields.io/badge/Triage-ff0000?style=for-the-badge&logo=truenas&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/HTTP--Dbg-ff0000?style=for-the-badge&logo=zend&logoColor=white" />
-  <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white" />
+  <a href="https://www.httpdebugger.com/"><img src="https://img.shields.io/badge/HTTP--Dbg-ff0000?style=for-the-badge&logo=zend&logoColor=white" /></a>
+  <a href="https://mitmproxy.org/"><img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white" /></a>
   <br />
-  <img src="https://img.shields.io/badge/Raspberry Pi-05af5e?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flipper Zero-FF6D2D?style=for-the-badge&logo=dolphin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jet KVM-224edf?style=for-the-badge&logo=leptos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ledger-000001?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry Pi-05af5e?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
+  <a href="https://flipperzero.one/"><img src="https://img.shields.io/badge/Flipper Zero-FF6D2D?style=for-the-badge&logo=dolphin&logoColor=white" /></a>
+  <a href="https://jetkvm.com/"><img src="https://img.shields.io/badge/Jet KVM-224edf?style=for-the-badge&logo=leptos&logoColor=white" /></a>
+  <a href="https://www.ledger.com/"><img src="https://img.shields.io/badge/Ledger-000001?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
 </p>
 
 ---
