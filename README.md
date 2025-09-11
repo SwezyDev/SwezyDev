@@ -141,7 +141,7 @@
   <a href="https://tria.ge/"><img src="https://img.shields.io/badge/Triage-ff0000?style=for-the-badge&logo=truenas&logoColor=white" /></a>
   <br />
   <a href="https://www.httpdebugger.com/"><img src="https://img.shields.io/badge/HTTP--Dbg-ff0000?style=for-the-badge&logo=zend&logoColor=white" /></a>
-  <a href="https://httptoolkit.com/"><img src="https://img.shields.io/badge/HTTP-Toolkit-ff0000?style=for-the-badge&logo=zend&logoColor=white" /></a>
+  <a href="https://httptoolkit.com/"><img src="https://img.shields.io/badge/HTTP--Toolkit-ff0000?style=for-the-badge&logo=zend&logoColor=white" /></a>
   <a href="https://mitmproxy.org/"><img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=envoyproxy&logoColor=white" /></a>
   <br />
   <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry Pi-05af5e?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
