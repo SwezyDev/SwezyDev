@@ -149,6 +149,7 @@
   <a href="https://flipperzero.one/"><img src="https://img.shields.io/badge/Flipper Zero-FF6D2D?style=for-the-badge&logo=dolphin&logoColor=white" /></a>
   <a href="https://jetkvm.com/"><img src="https://img.shields.io/badge/Jet KVM-224edf?style=for-the-badge&logo=leptos&logoColor=white" /></a>
   <a href="https://www.ledger.com/"><img src="https://img.shields.io/badge/Ledger-000001?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
+  <a href="https://www.ledger.com/"><img src="https://img.shields.io/badge/ThinkPad-EE2624?style=for-the-badge&logo=thinkpad&logoColor=white" /></a>
 </p>
 
 ---
