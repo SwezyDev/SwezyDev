@@ -66,7 +66,7 @@
 * 🛜 Network Monitoring & Proxy Interception
 * 🧠 Fullstack Development (Frontend ↔ Backend)
 * 💻 CLI & GUI Tool Development
-* 🐧 Working with Windows (10 & 11) and Linux (Mainly Ubuntu, Kali & REMnux)
+* 🐧 Working with Windows (10 & 11) and Linux (Mainly Arch, Ubuntu, Kali & REMnux)
 * 🔎 Vulnerability Research & Exploit Discovery
 ---
 
