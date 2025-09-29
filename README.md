@@ -83,6 +83,7 @@
 - ✅ Get into Malware Analysis
 - ✅ Advance skills in Cybersecurity
 - ✅ Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
+- ✅ Reporting serious Vulnerabilities to big Companies 🠚 X.com Post Soon
 - ⬜ Advance skills in C++
 - ⬜ Get into Web-Development
 
