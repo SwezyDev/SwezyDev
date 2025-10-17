@@ -75,7 +75,7 @@
 ## 🎯 Milestones
 
 - ✅ Get into Development
-- ✅ Master Linux (Ubuntu, Kali, REMnux) and Windows (10 & 11)
+- ✅ Master Linux (Arch, Ubuntu, Kali, REMnux) and Windows (10 & 11)
 - ✅ Learn Python deeply
 - ✅ Understand API design and integration
 - ✅ Build automation Tools and Bots
