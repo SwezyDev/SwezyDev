@@ -74,18 +74,18 @@
 
 ## 🎯 Milestones
 
-- ✅ Get into Development
-- ✅ Master Linux (Arch, Ubuntu, Kali, REMnux) and Windows (10 & 11)
-- ✅ Learn Python deeply
-- ✅ Understand API design and integration
-- ✅ Build automation Tools and Bots
-- ✅ Dive into Fullstack Development
-- ✅ Get into Malware Analysis
-- ✅ Advance skills in Cybersecurity
-- ✅ Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
-- ✅ Reporting serious Vulnerabilities to big Companies 🠚 [X.com Post](https://x.com/Swezy_1337/status/1973420745364742645)
-- ⬜ Advance skills in C++
-- ⬜ Get into Web-Development
+- [x] Get into Development
+- [x] Master Linux (Arch, Ubuntu, Kali, REMnux) and Windows (10 & 11)
+- [x] Learn Python deeply
+- [x] Understand API design and integration
+- [x] Build automation Tools and Bots
+- [x] Dive into Fullstack Development
+- [x] Get into Malware Analysis
+- [x] Advance skills in Cybersecurity
+- [x] Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765)
+- [x] Reporting serious Vulnerabilities to big Companies 🠚 [X.com Post](https://x.com/Swezy_1337/status/1973420745364742645)
+- [] Advance skills in C++
+- [] Get into Web-Development
 
 ---
 
