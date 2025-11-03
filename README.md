@@ -199,7 +199,10 @@
 
 ---
 
-> *“See the Network with other Perspectives.”*
+<p align="center">
+  “See the Network with other Perspectives.”
+</p>
+
 <p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
 
 <br />
