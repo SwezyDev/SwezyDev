@@ -168,7 +168,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swezydev&theme=dark" />
 </p>
 
-###### I'm not so active on GitHub
+<p align="center">
+  <sub>I'm not so active on GitHub</sub>
+</p>
 
 ---
 
