@@ -205,7 +205,11 @@
 
 <p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
 
-<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
+</p>
+
 <br />
 <p align="center">
   <a href="#top">
