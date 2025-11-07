@@ -8,7 +8,7 @@
 <h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swezydev&label=Profile%20Views&color=blue&style=flat" alt="swezydev" />
+  <img src="https://komarev.com/ghpvc/?username=swezydev&label=Profile%20Views&color=blue&style=flat-square" alt="swezydev" />
 </p>
 
 <p align="center">
