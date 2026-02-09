@@ -33,7 +33,7 @@
 ## 👤 Me
 
 - 🔎 **Known as:** Swezy <3
-- 👤 **Age:** 16
+- 👤 **Age:** 17
 - 🗺️ **Location:** Germany  
 - 🗣️ **Languages:** German, English
 - 💻 **Programming in:** Mainly Python
