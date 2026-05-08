@@ -19,6 +19,8 @@
   <a href="https://discord.com/users/1405599489531576411"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <a href="https://discord.gg/KkxjCe8Fg2"><img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" /></a>
   <br />
+  <a href="https://swezy.dev"><img src="https://img.shields.io/badge/Website-swezy.dev-blue?style=for-the-badge&logo=awesomelists&logoColor=black" /></a>
+  <br />
   <p align="center">
   <img src="https://lanyard.cnrad.dev/api/1488642490150949075?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
   <!--<br />-->
