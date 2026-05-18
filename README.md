@@ -163,8 +163,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swezydev&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swezydev&layout=compact&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=swezydev&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=swezydev&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
@@ -195,7 +195,9 @@
 
 <p align="center">
   <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://discord.com/users/1405599489531576411"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
+  <a href="mailto:contact@swezy.dev"><img src="https://img.shields.io/badge/Email-contact@swezy.dev-informational?style=for-the-badge&logo=gmail" /></a>
+  <br />
+  <a href="https://swezy.dev/pgp-key.asc" target="_blank"><img src="https://img.shields.io/badge/PGP Key-EMail-blue?style=for-the-badge&logo=keeweb" /></a>
   <br />
   <a href="https://nohello.net" target="_blank" style="font-size:12px; color:gray;">Don't just say hello — https://nohello.net</a>
 </p>
