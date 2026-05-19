@@ -85,8 +85,8 @@
 - [x] Dive into Fullstack Development
 - [x] Get into Malware Analysis
 - [x] Advance skills in Cybersecurity
-- [x] Save people from Cyberattacks 🠚 [X.com Post](https://x.com/UNP4CK/status/1917297281323200765) - [GitHub Project](https://github.com/SwezyDev/RAT-Vulnerabilities)
-- [x] Reporting serious Vulnerabilities to big Companies 🠚 [X.com Post](https://x.com/Swezy_1337/status/1973420745364742645) - [GitHub Project](https://github.com/SwezyDev/Whitepages-PoC)
+- [x] Save people from Cyberattacks ➜ [Blog Post](https://swezy.dev/blog/turkish-card-skimmer-takedown) · [X.com Post](https://x.com/UNP4CK/status/1917297281323200765) · [GitHub Project](https://github.com/SwezyDev/RAT-Vulnerabilities)
+- [x] Reporting serious Vulnerabilities to big Companies ➜ [Blog Post](https://swezy.dev/blog/whitepages-account-takeover) · [X.com Post](https://x.com/Swezy_1337/status/1973420745364742645) · [GitHub Project](https://github.com/SwezyDev/Whitepages-PoC)
 - [ ] Advance skills in C++
 - [ ] Get into Web-Development
 
