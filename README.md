@@ -168,7 +168,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swezydev&theme=dark" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=swezydev&theme=dark" />
 </p>
 
 <p align="center">
