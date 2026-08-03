@@ -153,6 +153,7 @@
   <a href="https://jetkvm.com/"><img src="https://img.shields.io/badge/Jet KVM-224edf?style=for-the-badge&logo=leptos&logoColor=white" /></a>
   <a href="https://www.ledger.com/"><img src="https://img.shields.io/badge/Ledger-000001?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
   <a href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img src="https://img.shields.io/badge/ThinkPad-EE2624?style=for-the-badge&logo=thinkpad&logoColor=white" /></a>
+  <a href="https://umbrel.com/umbrel-pro"><img src="https://img.shields.io/badge/Umbrel-Pro-5351FB?style=for-the-badge&logo=umbrel&logoColor=white" /></a>
 </p>
 
 ---
