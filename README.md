@@ -38,13 +38,14 @@
 
 <br clear="all" />
 
-<p align="center">
-  📝 <a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">Card skimmer takedown write-up</a> •
+<p align="left">
+  <a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">Card Skimmer Takedown write-up</a> •
   <a href="https://swezy.dev/blog/whitepages-account-takeover">Whitepages write-up</a> •
   <a href="https://github.com/SwezyDev/Whitepages-PoC">Whitepages PoC</a>
 </p>
 
 <p align="justify">
+  <br /><br />
   I've always been <b>curious</b> about how things work <b>under the hood</b>. That curiosity is
   what pulled me into <b>cybersecurity</b>. Every system has a <b>weak spot</b>, and finding it
   is like <b>solving a puzzle</b>. I spend a lot of my <b>free time</b> digging into software,
