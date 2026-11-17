@@ -27,13 +27,13 @@
 
 <a name="about-me"></a>
 
-<img src="assets/nft.png" width="300" align="left" alt="NFT" />
-<img src="assets/about.svg" width="540" alt="Hey, I'm Swezy!" />
+<img src="assets/nft.png" width="270" align="left" alt="NFT" />
+<img src="assets/about.svg" width="500" alt="Hey, I'm Swezy!" />
 
 <br clear="all" />
 
-<img src="assets/hidden.gif" width="300" align="right" alt="Hat" />
-<img src="assets/into.svg" width="540" alt="What am I into?" />
+<img src="assets/hidden.gif" width="270" align="right" alt="Hat" />
+<img src="assets/into.svg" width="500" alt="What am I into?" />
 
 <br clear="all" />
 
