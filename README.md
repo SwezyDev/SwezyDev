@@ -32,13 +32,14 @@
 
 <br clear="all" />
 
+<img src="assets/into.svg" width="500" align="left" alt="What am I into?" />
+<br />
 <img src="assets/hidden.gif" width="270" align="right" alt="Hat" />
-<img src="assets/into.svg" width="500" alt="What am I into?" />
 
 <br clear="all" />
 
 <p align="center">
-  <a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">Card Skimmer Takedown write-up</a> •
+  📝 <a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">Card skimmer takedown write-up</a> •
   <a href="https://swezy.dev/blog/whitepages-account-takeover">Whitepages write-up</a> •
   <a href="https://github.com/SwezyDev/Whitepages-PoC">Whitepages PoC</a>
 </p>
