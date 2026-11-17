@@ -27,57 +27,21 @@
 
 <a name="about-me"></a>
 
-<table>
-  <tr>
-    <td width="350" align="center">
-      <img src="assets/nft.png" width="350" alt="NFT" />
-    </td>
-    <td valign="middle">
-      <h2>Hey, I'm Swezy! 👋</h2>
-      <p align="justify">
-        I'm a <b>developer and cybersecurity enthusiast from Germany</b>,
-        passionate about technology, <b>software development and automation</b>.
-        I've been interested in tech since childhood and <b>started coding
-        around the age of 13/14</b>.
-      </p>
-      <p align="justify">
-        I enjoy <b>building tools, bots, scripts and applications that make life easier</b>.
-        My main focus is <b>Python</b>, but I'm also exploring <b>C++</b> and continuously
-        <b>expanding my knowledge across different areas of software engineering</b>.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="assets/nft.png" width="300" align="left" alt="NFT" />
+<img src="assets/about.svg" width="540" alt="Hey, I'm Swezy!" />
 
-<table>
-  <tr>
-    <td valign="middle">
-      <h2>What am I into? 💎</h2>
-      <p align="justify">
-        Beyond development, I'm deeply <b>interested in cybersecurity,
-        reverse engineering, malware analysis and vulnerability research</b>.
-        I enjoy understanding how systems work, identifying weaknesses
-        and developing tools to investigate and address security issues.
-        I'm comfortable in both <b>Linux</b> and <b>Windows</b> environments.
-      </p>
-      <p align="justify">
-        In 2025, my <b>RAT-Vulnerabilities</b> research was used to take down a
-        card skimming operation targeting hotel management systems
-        (<a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">write-up</a>).
-      </p>
-      <p align="justify">
-        I also found and reported an <b>account takeover vulnerability in Whitepages</b>,
-        a major people-search platform. It has since been patched, and I published
-        a <a href="https://swezy.dev/blog/whitepages-account-takeover">write-up</a>
-        and a <a href="https://github.com/SwezyDev/Whitepages-PoC">proof of concept</a>
-        for research purposes.
-      </p>
-    </td>
-    <td width="350" align="center">
-      <img src="assets/hidden.gif" width="300" alt="Hat" />
-    </td>
-  </tr>
-</table>
+<br clear="all" />
+
+<img src="assets/hidden.gif" width="300" align="right" alt="Hat" />
+<img src="assets/into.svg" width="540" alt="What am I into?" />
+
+<br clear="all" />
+
+<p align="center">
+  <a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">Card Skimmer Takedown write-up</a> •
+  <a href="https://swezy.dev/blog/whitepages-account-takeover">Whitepages write-up</a> •
+  <a href="https://github.com/SwezyDev/Whitepages-PoC">Whitepages PoC</a>
+</p>
 
 <p align="justify">
   I've always been <b>curious</b> about how things work <b>under the hood</b>. That curiosity is
@@ -91,52 +55,9 @@
 
 <a name="what-i-do"></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ Development</h3>
-      <ul>
-        <li><b>Python</b> & <b>Batch</b></li>
-        <li>Tools, bots & automation scripts</li>
-        <li>API design & RESTful integrations (<b>Postman</b>)</li>
-        <li>License key & payment systems</li>
-        <li>Databases: <b>SQLite, MySQL, MongoDB, phpMyAdmin, Supabase</b></li>
-        <li>Editors: <b>VS Code, Visual Studio, Notepad++, Obsidian, Nano</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧬 Reverse Engineering & Malware</h3>
-      <ul>
-        <li>Disassembly & debugging: <b>Ghidra, IDA Pro, x64dbg, dnSpy</b></li>
-        <li>PE analysis: <b>Detect It Easy, CFF Explorer</b></li>
-        <li>Sandboxes: <b>AnyRun, Triage, VirusTotal</b></li>
-        <li>Malware & batch file deobfuscation</li>
-        <li>Vulnerability research & exploit discovery</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 Pentesting & Network</h3>
-      <ul>
-        <li>Traffic analysis: <b>Burp Suite, Wireshark, Nmap</b></li>
-        <li>Proxy interception: <b>mitmproxy, HTTP Toolkit, HTTP Debugger</b></li>
-        <li>Bug bounty hunting</li>
-        <li>Remote access: <b>RDP, PuTTY, Termius, FileZilla</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 Infrastructure & Homelab</h3>
-      <ul>
-        <li>Deployment: <b>Docker, Nginx, PM2, Git</b></li>
-        <li>Monitoring with <b>Grafana</b></li>
-        <li><b>Linux</b> (Arch, Ubuntu, Kali, REMnux) & <b>Windows</b> 10/11</li>
-        <li>Virtualization with <b>VMware Workstation</b></li>
-        <li>Hardware: <b>ThinkPad, Raspberry Pi, Flipper Zero, JetKVM, Umbrel, Ledger</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/what-i-do.svg" width="100%" alt="What I do" />
+</p>
 
 ---
 
