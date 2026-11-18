@@ -26,6 +26,9 @@
 </p>
 
 <a name="about-me"></a>
+<!--
+Uhm, why are you inspecting the code? But anyway, here are some fun facts about me... I want to speak Russian so bad. • I think I might have a gambling addiction.
+-->
 
 <img src="assets/nft.png" width="270" align="left" alt="NFT" />
 <img src="assets/about.svg" width="500" alt="Hey, I'm Swezy!" />
