@@ -60,6 +60,9 @@
 
 <p align="center">
   <img src="assets/what-i-do.svg" width="100%" alt="What I do" />
+  <img src="https://ghstats.dev/api/card?username=SwezyDev&border_radius=8&hide_title=true&hide=stars%2Cprs%2Cissues%2Cfollowers%2Crepos%2Ctrend%2Cgrade" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/sparkline?username=SwezyDev&days=30&border_radius=8&width=225&height=225&title=&nbsp;" alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/langs?username=SwezyDev&custom_title=GitHub+Stats&max_langs=12&border_radius=8&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
