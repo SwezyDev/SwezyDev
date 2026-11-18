@@ -39,7 +39,7 @@
 <br clear="all" />
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://swezy.dev/blog/turkish-card-skimmer-takedown">Card Skimmer Takedown write-up</a> •
   <a href="https://swezy.dev/blog/whitepages-account-takeover">Whitepages write-up</a> •
   <a href="https://github.com/SwezyDev/Whitepages-PoC">Whitepages PoC</a>
